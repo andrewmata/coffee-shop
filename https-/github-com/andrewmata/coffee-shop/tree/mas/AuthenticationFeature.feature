@@ -1,8 +1,11 @@
 
 Feature:
-  Make some UAT Test  9.1
+  Bank Balance Viewing
 
   Scenario:
-    When the UAT test is input
-    And the set up is configured correctly
-    Then the Scenario/Pulse will automate stuff!!!!!!
+    	
+Given i am a kid with an account
+
+When i log in after my parent has made an account
+
+Then i should see my account balance
