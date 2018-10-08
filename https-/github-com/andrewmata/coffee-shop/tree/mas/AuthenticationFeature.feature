@@ -5,4 +5,4 @@ Feature:
   Scenario:
     When the UAT test is input
     And the set up is configured correctly
-    Then the Scenario/Pulse will automate stuff!!!!
+    Then the Scenario/Pulse will automate stuff!!!!!!
